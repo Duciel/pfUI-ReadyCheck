@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI |cffccccccReadyCheck
+## Notes: Adds ready check and BigWigs pull timer buttons for raid leaders and assistants (pfUI module).
+## Author: alex
+## Version: 1.1
+## Dependencies: pfUI
+
+pfUI-ReadyCheck.lua
